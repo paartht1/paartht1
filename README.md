@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Paarth
 - 👀 I’m interested in Programming and F1
-- 🌱 I’m currently learning Comp Sci and Neuroscience
-- 💞️ I’m looking to collaborate on different projects mainly in the field of biotech
+- 🌱 I’m currently learning Comp Sci 
+- 💞️ I’m looking to collaborate on different projects 
 - 📫 How to reach me -email.
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I have burned more kitchens than 1.
